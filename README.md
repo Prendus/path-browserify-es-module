@@ -1,0 +1,1 @@
+# path-browserify-es-module
